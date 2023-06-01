@@ -3,3 +3,5 @@
 ## Overview
 A 6DOF manipulator is assembled, and a controller is programmed in arduino to pick and place a piece of cloth. *ServoControl.ino* is the main file
 which contains the code. The output video is *manipulator_pick_and_place.mp4*.
+
+Testing for branch merge
